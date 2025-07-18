@@ -1,0 +1,459 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* Common CSS Start */
+    section {
+      padding: 2rem 2rem !important;
+    }
+    .logo-img {
+        height: 40px !important;
+    }
+    .immutag-ti {
+        font-size: 25px !important;
+    }
+    .immutag-p {
+        font-size: 12px !important;
+    }
+    .explore-btn {
+        margin-top: 0% !important;
+        font-size: 12px !important;
+    }
+    /* Common CSS End */
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-top: 30px !important;
+        padding-bottom: 20px !important;
+    }
+    .banner p {
+        margin: 0 auto 1rem !important;;
+    }
+    .phone-img {
+        display: none !important;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding: 2rem 1rem !important;
+    }
+    .card {
+        padding: 1.5rem !important;
+        min-height: 200px !important;
+    }
+    .card h3 {
+        font-size: 22px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .devices-grid {
+        grid-template-columns: 1fr !important;
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 20px !important;
+        min-height: 130px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 2rem 1rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    .s-form {
+        padding: 1rem 1rem !important;
+    }
+    .s-form button {
+        padding: 0.75rem 1.5rem;
+        border: none;
+    }
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    .footer {
+        padding: 2rem 2rem !important;
+    }
+    .icon-link{
+        margin-top: 1rem !important;
+        flex-direction: row !important;
+        justify-content: center !important;
+    }
+    .footer-links {
+        font-size: 14px !important;
+        gap: 0.5rem !important;
+    }
+    .footer-bottom {
+        margin-top: 0rem !important;
+    }
+    .ft-bo-p {
+        font-size: 12px !important;
+        text-align: center !important;
+        flex-direction: column !important;
+    }
+    /* Footer Section Start */
+}
+
+/* Small devices (landscape phones, 576px and 767.98px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* Common CSS Start */
+    section {
+      padding: 2rem 2rem !important;
+    }
+    .logo-img {
+        height: 60px !important;
+    }
+    .immutag-ti {
+        font-size: 25px !important;
+    }
+    .immutag-p {
+        font-size: 14px !important;
+    }
+    .explore-btn {
+        font-size: 12px;
+    }
+    /* Common CSS End */
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-top: 50px !important;
+        padding-bottom: 20px !important;
+    }
+    .banner p {
+        margin: 0 auto 1rem !important;;
+    }
+    .phone-img {
+        display: none !important;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding: 2rem 1rem !important;
+    }
+    .card {
+        padding: 1.5rem !important;
+        min-height: 225px !important;
+    }
+    .card h3 {
+        font-size: 22px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .devices-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 20px !important;
+        min-height: 130px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 2rem 1rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    .s-form {
+        padding: 1rem 1rem !important;
+    }
+    .s-form button {
+        padding: 0.75rem 1.5rem;
+        border: none;
+    }
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    .footer {
+        padding: 2rem 2rem !important;
+    }
+    .icon-link{
+        margin-top: 1rem !important;
+        flex-direction: row !important;
+        justify-content: center !important;
+    }
+    .footer-links {
+        font-size: 14px !important;
+        gap: 0.5rem !important;
+    }
+    .footer-bottom {
+        margin-top: 0rem !important;
+    }
+    .ft-bo-p {
+        font-size: 14px !important;
+    }
+    /* Footer Section Start */
+}
+
+/* Medium devices (tablets, 768px and 991.98px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Common CSS Start */
+    section {
+      padding: 2rem 2rem !important;
+    }
+    .logo-img {
+        height: 50px !important;
+    }
+    .immutag-ti {
+        font-size: 25px !important;
+    }
+    .immutag-p {
+        font-size: 14px !important;
+    }
+    .explore-btn {
+        font-size: 12px;
+    }
+    /* Common CSS End */
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-top: 45px !important;
+        padding-bottom: 30px !important;
+    }
+    .banner p {
+        margin: 0 auto 1rem !important;;
+    }
+    .phone-img {
+        display: none !important;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding: 2rem 1rem !important;
+    }
+    .card {
+        padding: 1.5rem !important;
+        min-height: 210px !important;
+    }
+    .card h3 {
+        font-size: 22px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .devices-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 20px !important;
+        min-height: 130px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 2rem 1rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    .s-form {
+        padding: 1rem 1rem !important;
+    }
+    .s-form button {
+        padding: 0.75rem 2rem;
+    }
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    .footer {
+        padding: 2rem 2rem !important;
+    }
+    .f-img {
+        height: 40px !important;
+    }   
+    .icon-link{
+        margin: 1rem !important;
+        flex-direction: row !important;
+        justify-content: center !important;
+    }
+    .footer-links {
+        font-size: 12px !important;
+        gap: 0.5rem !important;
+    }
+    .footer-links a{
+        font-size: 12px !important;
+    }
+    .footer-bottom {
+        margin-top: 0rem !important;
+    }
+    .ft-bo-p {
+        font-size: 14px !important;
+    }
+    /* Footer Section Start */
+}
+
+/* Large devices (desktops, 992px and 1199.98px */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* Common CSS Start */
+    section {
+      padding: 2rem 2rem !important;
+    }
+    .logo-img {
+        height: 60px !important;
+    }
+    .immutag-p {
+        font-size: 16px !important;
+    }
+    .explore-btn {
+        font-size: 14px;
+    }
+    /* Common CSS End */
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-top: 60px !important;
+        padding-bottom: 50px !important;
+    }
+    .banner p {
+        margin: 0 auto 1rem !important;;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding-bottom: 0.5rem !important;
+    }
+    .cards {
+        gap: 0.5rem !important;
+    }
+    .card {
+        padding: 1.5rem !important;
+        min-height: 240px !important;
+    }
+    .card h3 {
+        font-size: 22px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .devices-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 20px !important;
+        min-height: 130px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 2rem 1rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    .footer {
+        padding: 2rem 2rem !important;
+    }
+    .footer-bottom {
+        margin-top: 2rem !important;
+    }
+    .ft-bo-p {
+        font-size: 14px !important;
+    }
+    /* Footer Section End */
+}
+
+/* Extra large devices (large desktops, 1200px and 1399.98px) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-bottom: 50px !important;
+    }
+    .banner p {
+        margin: 0 auto 1rem !important;;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding-bottom: 1rem !important;
+    }
+    .cards {
+        gap: 1rem !important;
+    }
+    .card h3 {
+        font-size: 24px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .Sup-Dev {
+        padding: 2rem 2rem !important;
+    }
+    .devices-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 20px !important;
+        min-height: 130px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 3rem 2rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    .stay-ahead {
+        padding: 2rem 2rem !important;
+    }
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    .footer {
+        padding: 2rem 2rem !important;
+    }
+    /* Footer Section End */
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)) */
+@media (min-width: 1400px) {
+    /* Header Start */
+    /* Header End */
+    /* Banner Start */
+    .banner {
+        padding-bottom: 60px !important;
+    }
+    /* Banner End */
+    /* How It Works Start */
+    .works {
+        padding-bottom: 1.5rem !important;
+    }
+    .card {
+        min-height: 265px !important;
+    }
+    .card h3 {
+        font-size: 26px !important;
+    }
+    /* How It Works End */
+    /* Supported Devices Start */
+    .Sup-Dev {
+        padding: 2rem 2rem !important;
+    }
+    .devices-grid {
+        padding-bottom: 2rem !important;
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+    /* Each device card */
+    .device-item {
+        padding: 0rem !important;
+        font-size: 22px !important;
+        min-height: 135px !important;
+    }
+    /* Supported Devices End */
+    /* Trust Section Start */
+    .trust {
+        padding: 3rem !important;
+    }
+    /* Trust Section End */
+    /* Stay Ahead Section Start */
+    .stay-ahead {
+        padding: 2rem 2rem !important;
+    }
+    /* Stay Ahead Section End */
+    /* Footer Section Start */
+    /* Footer Section End */
+}
